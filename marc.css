@@ -15,3 +15,8 @@ p {
 h2 {
   color: yellow
 }
+
+header {
+  background-color: greenyellow;
+  font-size: 30px;
+}
