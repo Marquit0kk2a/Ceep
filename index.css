@@ -1,0 +1,40 @@
+body {
+    background-color: lightgreen;
+  }
+  
+  h1 {
+    color: red;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  
+  h2 {
+    color: yellow;
+  }
+  
+  header {
+    background-color: limegreen;
+    position: relative;
+  }
+  
+  header ul {
+    position: absolute;
+    right: 200px;
+    top: 35px;
+  }
+
+  header li {
+    display: inline;
+    margin: 15px 10px 15px 10px;
+    font-size: 30px;
+  }
+
+  header h1 {
+    color: black;
+    font-family: verdana;
+    font-size: 40px;
+  }
